@@ -62,7 +62,7 @@ Tkinter is included with most Python installations. If not, install it via your 
 
 ## License
 
-MIT License. See [LICENSE](LICENSE) for details.
+MIT License. See [LICENSE]([LICENSE](https://github.com/lightgync/Free-Firewall-Antivirus/blob/main/LICENCE)) for details.
 
 ## Credits
 
